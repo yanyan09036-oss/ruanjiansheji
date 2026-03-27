@@ -18,6 +18,8 @@
 {
   "user_id": "ruanjiansheji",
   "password": "gaoji",
+  "timestamp": 1711500000,
+  "metric_type": "signal strength",
   "device_id": "dev_01",
   "val": 25.5
 }
